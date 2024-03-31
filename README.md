@@ -1,6 +1,6 @@
 # Sistema de Gestão de Funcionários
 
-Este repositório contém uma aplicação Web API desenvolvida em ASP.NET, que simula o gerenciamento de funcionários de uma empresa. A API oferece funcionalidades para realizar operações CRUD (Create, Read, Update, Delete) em relação aos funcionários, incluindo métodos como GET, PUT, DELETE, GET (busca por ID) e PUT (Inativar funcionario)
+Este repositório contém uma aplicação Web API desenvolvida em ASP.NET, que simula o gerenciamento de funcionários de uma empresa. A API oferece funcionalidades para realizar operações CRUD (Create, Read, Update, Delete) em relação aos funcionários, incluindo métodos como GET, POST, PUT, DELETE, GET (busca por ID) e PUT (Inativar funcionario)
 
 👨‍💼 **Acesse a API [aqui](https://webapifuncionarios.azurewebsites.net/swagger/).
 
